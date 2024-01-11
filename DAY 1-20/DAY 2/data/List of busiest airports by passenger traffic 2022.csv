@@ -1,0 +1,51 @@
+,Rank,Airport,Location,Country,Code (IATA/ICAO),Total passengers,Rank change,% change
+0,1.0,Hartsfield–Jackson Atlanta International Airport,"Atlanta, Georgia",United States,ATL/KATL,93699630,,23.8%
+1,2.0,Dallas Fort Worth International Airport,"Dallas–Fort Worth, Texas",United States,DFW/KDFW,73362946,,17.5%
+2,3.0,Denver International Airport,"Denver, Colorado",United States,DEN/KDEN,69286461,,17.8%
+3,4.0,O'Hare International Airport,"Chicago, Illinois",United States,ORD/KORD,68340619,,26.5%
+4,5.0,Dubai International Airport,"Garhoud, Dubai",United Arab Emirates,DXB/OMDB,66069981,23,127.0%
+5,6.0,Los Angeles International Airport,"Los Angeles, California",United States,LAX/KLAX,65924298,1,37.3%
+6,7.0,Istanbul Airport,"Arnavutköy, Istanbul",Turkey,IST/LTFM,64289107,7,73.8%
+7,8.0,Heathrow Airport,"Hillingdon, London",United Kingdom,LHR/EGLL,61614508,46,217.7%
+8,9.0,Indira Gandhi International Airport,"Palam, Delhi",India,DEL/VIDP,59490074,4,60.2%
+9,10.0,Charles de Gaulle Airport,"Roissy-en-France, Île-de-France",France,CDG/LFPG,57474033,22,119.4%
+10,11.0,John F. Kennedy International Airport,"Queens, New York City, New York",United States,JFK/KJFK,55287693,15,79.6%
+11,12.0,Harry Reid International Airport,"Las Vegas, Nevada",United States,LAS/KLAS,52694312,2,32.6%
+12,13.0,Amsterdam Airport Schiphol,"Haarlemmermeer, North Holland",Netherlands,AMS/EHAM,52472188,22,105.8%
+13,14.0,Miami International Airport,"Miami-Dade County, Florida",United States,MIA/KMIA,50684396,2,35.9%
+14,15.0,Adolfo Suárez Madrid–Barajas Airport,Madrid,Spain,MAD/LEMD,50602864,28,109.8%
+15,16.0,Tokyo Haneda Airport,"Ōta, Tokyo",Japan,HND/RJTT,50290705,17,92.5%
+16,17.0,Orlando International Airport,"Orlando, Florida",United States,MCO/KMCO,50176103,10,24.2%
+17,18.0,Frankfurt Airport,"Frankfurt, Hesse",Germany,FRA/EDDF,48918482,21,97.2%
+18,19.0,Charlotte Douglas International Airport,"Charlotte, North Carolina",United States,CLT/KCLT,47758605,13,10.3%
+19,20.0,Mexico City International Airport,"Venustiano Carranza, Mexico City",Mexico,MEX/MMMX,46261729,3,28.3%
+20,21.0,Seattle–Tacoma International Airport,"SeaTac, Washington",United States,SEA/KSEA,45964321,5,27.1%
+21,22.0,Phoenix Sky Harbor International Airport,"Phoenix, Arizona",United States,PHX/KPHX,44397854,11,14.3%
+22,23.0,Newark Liberty International Airport,"Newark, New Jersey",United States,EWR/KEWR,43565254,6,50.0%
+23,24.0,San Francisco International Airport,"San Mateo County, California",United States,SFO/KSFO,42210201,16,73.5%
+24,25.0,Josep Tarradellas Barcelona–El Prat Airport,Barcelona,Spain,BCN/LEBL,41616302,33,120.6%
+25,26.0,George Bush Intercontinental Airport,"Houston, Texas",United States,IAH/KIAH,40974831,3,21.7%
+26,27.0,Soekarno–Hatta International Airport,"Tangerang, Banten",Indonesia,CGK/WIII,38791168,?,113.3%
+27,28.0,Chhatrapati Shivaji Maharaj International Airport,"Santacruz-Sahar, Mumbai, Maharashtra",India,BOM/VABB,38332106,23,93.7%
+28,29.0,Toronto Pearson International Airport,"Mississauga, Ontario",Canada,YYZ/CYYZ,36356109,?,186.4%
+29,30.0,Logan International Airport,"East Boston, Massachusetts",United States,BOS/KBOS,36112473,14,59.1%
+30,31.0,Hamad International Airport,Doha,Qatar,DOH/OTHH,35730482,?,101.8%
+31,32.0,El Dorado International Airport,Bogotá,Colombia,BOG/SKBO,35362529,20,60.1%
+32,33.0,São Paulo/Guarulhos International Airport,Guarulhos,Brazil,GRU/SBGR,34466946,8,42.6%
+33,34.0,Tan Son Nhat International Airport,Ho Chi Minh City,Vietnam,SGN/VVTS,34278320,?,233.2%
+34,35.0,London Gatwick Airport,"Crawley, West Sussex",United Kingdom,LGW/EGKK,32848088,?,424.7%
+35,36.0,Singapore Changi Airport,"Changi, East Region",Singapore,SIN/WSSS,32202000,?,954.8%
+36,37.0,Fort Lauderdale–Hollywood International Airport,"Broward County, Florida",United States,FLL/KFLL,31686404,7,12.9%
+37,38.0,King Abdulaziz International Airport,Jeddah,Saudi Arabia,JED/OEJN,31648324,?,134.6%
+38,39.0,Munich Airport,"Freising, Bavaria",Germany,MUC/EDDM,31642738,?,153.2%
+39,40.0,Antalya Airport,Antalya,Turkey,AYT/LTAI,31228377,8,41.7%
+40,41.0,Istanbul Sabiha Gökçen International Airport,"Pendik, Istanbul",Turkey,SAW/LTFJ,30780357,4,23.2%
+41,42.0,Minneapolis/St Paul International Airport,"St. Paul, Minnesota",United States,MSP/KMSP,30622784,3,25.4%
+42,43.0,Cancún International Airport,Cancún,Mexico,CUN/MMUN,30484094,3,36.1%
+43,44.0,Ninoy Aquino International Airport,"Pasay/Parañaque, Metro Manila",Philippines,MNL/RPLL,30329426,?,287.8%
+44,45.0,Jeju International Airport,Jeju City,South Korea,CJU/RKPC,29703669,12,15.1%
+45,46.0,Leonardo da Vinci–Fiumicino Airport,"Fiumicino, Rome metro",Italy,FCO/LIRF,29346365,?,151.8%
+46,47.0,Orly Airport,"Orly, Paris metro",France,ORY/LFPO,29187269,?,85.6%
+47,48.0,Sydney Airport,Sydney,Australia,SYD/YSSY,29094483,?,265.8%
+48,49.0,LaGuardia Airport,"Queens, New York City",United States,LGA/KLGA,28997592,?,85.9%
+49,50.0,Suvarnabhumi Airport,"Racha Thewa, Bangkok metro",Thailand,BKK/VTBS,28754314,?,407.6%

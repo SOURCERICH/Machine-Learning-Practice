@@ -1,0 +1,51 @@
+1. Reading and Loading Data
+
+pd.read_csv(): Reads data from a CSV file and creates a DataFrame.
+pd.read_excel(): Reads data from an Excel file and creates a DataFrame.
+np.loadtxt(): Loads data from a text file into a NumPy array.
+Check my other article: 10 Useful Python Pandas Functions for Data Exploration
+
+2. Understanding the Data
+
+df.head(): Displays the first few rows of a DataFrame.
+df.shape: Returns the dimensions of the DataFrame (rows, columns).
+df.info(): Provides information about the DataFrame, such as data types and missing values.
+df.describe(): Generates descriptive statistics for numerical columns.
+
+3. Cleaning and Preprocessing Data
+
+df.isnull(): Checks for missing values in the DataFrame.
+df.dropna(): Drops rows or columns with missing values.
+df.duplicated(): Checks for duplicate rows.
+df.drop_duplicates(): Drops duplicate rows.
+df.fillna(): Fills missing values with specified values.
+
+4. Data Visualization
+
+plt.plot(): Creates line plots.
+plt.scatter(): Creates scatter plots.
+sns.histplot(): Creates histograms.
+sns.boxplot(): Creates box plots.
+sns.heatmap(): Creates heatmaps.
+
+5. Statistical Analysis
+
+np.mean(): Calculates the mean of an array or DataFrame.
+np.median(): Calculates the median of an array or DataFrame.
+np.std(): Calculates the standard deviation of an array or DataFrame.
+scipy.stats.ttest_ind(): Performs a t-test for two independent samples.
+
+6. Data Aggregation and Grouping
+
+Functions such as groupby(), agg(), and pivot_table() are commonly used for data aggregation and grouping.
+
+7. Feature Engineering
+Functions such as df.apply(), df.map(), and df.transform() are commonly used for feature engineering.
+
+8. Handling Outliers
+Outliers can significantly impact analysis and modeling. 
+Functions such as np.percentile() and scipy.stats.zscore() can be used to detect and handle outliers.
+
+9. Handling Dates and Time
+If the dataset includes date and time information, Python provides functions for handling and manipulating dates and time. 
+Functions such as pd.to_datetime(), dt.year, dt.month, and dt.day are useful for working with dates and time.

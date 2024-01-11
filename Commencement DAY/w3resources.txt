@@ -1,0 +1,4 @@
+1. Python Datastructures
+2. Simple Questions on Arrays
+    Lists 
+    Dictionaries
